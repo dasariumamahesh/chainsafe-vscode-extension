@@ -1,0 +1,1 @@
+# chainsafe-vscode-extension
